@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "resultados",
+  "info": {
+    "singularName": "resultado",
+    "pluralName": "resultados",
+    "displayName": "Resultado"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "resultado": {
+      "type": "string",
+      "required": true
+    },
+    "valor": {
+      "type": "integer",
+      "required": true
+    }
+  }
+}

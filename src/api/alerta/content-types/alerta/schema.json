@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "alertas",
+  "info": {
+    "singularName": "alerta",
+    "pluralName": "alertas",
+    "displayName": "Alerta"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "alerta": {
+      "type": "richtext"
+    }
+  }
+}

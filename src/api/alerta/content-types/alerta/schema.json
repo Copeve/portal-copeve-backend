@@ -4,7 +4,8 @@
   "info": {
     "singularName": "alerta",
     "pluralName": "alertas",
-    "displayName": "Alerta"
+    "displayName": "Alerta",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -12,7 +13,11 @@
   "pluginOptions": {},
   "attributes": {
     "alerta": {
-      "type": "richtext"
+      "type": "richtext",
+      "required": true
+    },
+    "url_encaminhamento": {
+      "type": "string"
     }
   }
 }

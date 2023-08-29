@@ -4,7 +4,8 @@
   "info": {
     "singularName": "calendario",
     "pluralName": "calendarios",
-    "displayName": "Calendário"
+    "displayName": "Calendário",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -26,7 +27,7 @@
       "target": "api::tipo-calendario.tipo-calendario"
     },
     "observacao": {
-      "type": "text"
+      "type": "richtext"
     }
   }
 }

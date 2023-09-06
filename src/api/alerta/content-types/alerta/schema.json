@@ -16,7 +16,7 @@
       "type": "richtext",
       "required": true
     },
-    "url_encaminhamento": {
+    "url_saiba_mais": {
       "type": "string"
     }
   }

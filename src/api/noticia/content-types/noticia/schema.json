@@ -32,6 +32,19 @@
     "destaque": {
       "type": "boolean",
       "required": true
+    },
+    "subtitulo": {
+      "type": "text"
+    },
+    "imagem_noticia": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }

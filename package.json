@@ -17,7 +17,8 @@
     "@strapi/plugin-users-permissions": "4.13.3",
     "@strapi/strapi": "4.13.3",
     "mysql": "2.18.1",
-    "mysql2": "^3.5.1"
+    "mysql2": "^3.5.1",
+    "strapi-plugin-fuzzy-search": "^2.0.5"
   },
   "author": {
     "name": "André Oliveira"

@@ -4,7 +4,8 @@
   "info": {
     "singularName": "redes-social",
     "pluralName": "redes-socials",
-    "displayName": "Redes Social"
+    "displayName": "Redes Social",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -21,6 +22,9 @@
       "type": "string"
     },
     "tiktok": {
+      "type": "string"
+    },
+    "site": {
       "type": "string"
     }
   }

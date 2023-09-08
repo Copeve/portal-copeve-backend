@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2023-09-08T15:51:22.794Z"
+    "x-generation-date": "2023-09-08T18:09:46.858Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -7229,16 +7229,16 @@
           "data": {
             "type": "object",
             "properties": {
-              "Nome": {
+              "nome": {
                 "type": "string"
               },
-              "Endereco": {
+              "endereco": {
                 "type": "string"
               },
-              "Telefone": {
+              "telefone": {
                 "type": "string"
               },
-              "Atendimento": {
+              "atendimento": {
                 "type": "string"
               },
               "direitos_autorais": {
@@ -7297,16 +7297,16 @@
       "Rodape": {
         "type": "object",
         "properties": {
-          "Nome": {
+          "nome": {
             "type": "string"
           },
-          "Endereco": {
+          "endereco": {
             "type": "string"
           },
-          "Telefone": {
+          "telefone": {
             "type": "string"
           },
-          "Atendimento": {
+          "atendimento": {
             "type": "string"
           },
           "direitos_autorais": {

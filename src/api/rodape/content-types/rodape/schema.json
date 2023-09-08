@@ -4,23 +4,24 @@
   "info": {
     "singularName": "rodape",
     "pluralName": "rodapes",
-    "displayName": "Rodape"
+    "displayName": "Rodape",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "Nome": {
+    "nome": {
       "type": "string"
     },
-    "Endereco": {
+    "endereco": {
       "type": "richtext"
     },
-    "Telefone": {
+    "telefone": {
       "type": "richtext"
     },
-    "Atendimento": {
+    "atendimento": {
       "type": "richtext"
     },
     "direitos_autorais": {

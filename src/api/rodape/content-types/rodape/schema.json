@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "rodapes",
+  "info": {
+    "singularName": "rodape",
+    "pluralName": "rodapes",
+    "displayName": "Rodape"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Nome": {
+      "type": "string"
+    },
+    "Endereco": {
+      "type": "richtext"
+    },
+    "Telefone": {
+      "type": "richtext"
+    },
+    "Atendimento": {
+      "type": "richtext"
+    },
+    "direitos_autorais": {
+      "type": "richtext"
+    }
+  }
+}

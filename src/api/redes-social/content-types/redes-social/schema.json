@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "redes_socials",
+  "info": {
+    "singularName": "redes-social",
+    "pluralName": "redes-socials",
+    "displayName": "Redes Social"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "instagram": {
+      "type": "string"
+    },
+    "twitter": {
+      "type": "string"
+    },
+    "facebook": {
+      "type": "string"
+    },
+    "tiktok": {
+      "type": "string"
+    }
+  }
+}

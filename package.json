@@ -11,13 +11,13 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-documentation": "^4.13.3",
-    "@strapi/plugin-graphql": "^4.13.3",
-    "@strapi/plugin-i18n": "4.13.3",
-    "@strapi/plugin-users-permissions": "4.13.3",
-    "@strapi/strapi": "4.13.3",
+    "@strapi/plugin-documentation": "^4.13.6",
+    "@strapi/plugin-graphql": "^4.13.6",
+    "@strapi/plugin-i18n": "4.13.6",
+    "@strapi/plugin-users-permissions": "4.13.6",
+    "@strapi/strapi": "4.13.6",
     "mysql": "2.18.1",
-    "mysql2": "^3.5.1",
+    "mysql2": "^3.6.1",
     "strapi-plugin-fuzzy-search": "^2.0.5"
   },
   "author": {

@@ -26,6 +26,9 @@
     },
     "site": {
       "type": "string"
+    },
+    "youtube": {
+      "type": "string"
     }
   }
 }

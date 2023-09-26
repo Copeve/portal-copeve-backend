@@ -22,9 +22,6 @@
         "videos",
         "audios"
       ]
-    },
-    "texto": {
-      "type": "text"
     }
   }
 }

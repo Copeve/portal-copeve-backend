@@ -46,11 +46,12 @@
       "target": "api::tipo-concurso.tipo-concurso"
     },
     "logo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "images"
-      ],
-      "type": "media",
-      "multiple": true
+      ]
     },
     "link": {
       "type": "string"

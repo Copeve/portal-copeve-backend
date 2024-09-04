@@ -12,6 +12,7 @@ import customisations from "../../src/admin/app.tsx";
 
 renderAdmin(document.getElementById("strapi"), {
   customisations,
+
   plugins: {
     documentation: documentation,
     graphql: graphql,

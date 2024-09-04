@@ -13,12 +13,16 @@
   "dependencies": {
     "@strapi/plugin-documentation": "^4.13.6",
     "@strapi/plugin-graphql": "^4.13.6",
-    "@strapi/plugin-i18n": "4.13.6",
-    "@strapi/plugin-users-permissions": "4.13.6",
-    "@strapi/strapi": "4.13.6",
+    "@strapi/plugin-i18n": "4.15.5",
+    "@strapi/plugin-users-permissions": "4.15.5",
+    "@strapi/strapi": "4.15.5",
     "mysql": "2.18.1",
     "mysql2": "^3.6.1",
-    "strapi-plugin-fuzzy-search": "^2.0.5"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^5.2.0",
+    "strapi-plugin-fuzzy-search": "^2.0.5",
+    "styled-components": "^5.2.1"
   },
   "author": {
     "name": "André Oliveira"
@@ -27,8 +31,8 @@
     "uuid": "d612dc4e-c3fb-4463-b201-53dc5d0eeb7b"
   },
   "engines": {
-    "node": "18.16.1",
-    "npm": "9.5.1"
+    "node": "18.x.x",
+    "npm": "10.x.x"
   },
   "license": "MIT"
 }

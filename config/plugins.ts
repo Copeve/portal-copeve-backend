@@ -48,6 +48,14 @@ module.exports = ({ env }) => ({
             ],
         },
     },
-
+    upload: {
+        config: {
+          providerOptions: {
+            localServer: {
+              maxAllowedSize: 1024 * 1024 * 1024, // 1GB
+            }
+          }
+        }
+    },
     // ...
 });
